@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "froala-editor": "^3.0.6"
+    "froala-editor": "^4.0.7"
   }
 }
